@@ -5,19 +5,9 @@ Instructions
 
 1. Create a Directory in your local drive
 2. Clone the file in your local drive
-3. Make sure you have the following dependencies (install if not)
-fs-extra
-ganache-cli
-mocha
-next
-next-routes
-react
-react-dom
-semantic-ui-css
-semantic-ui-react"
-solc
-truffle-hdwallet-provider
-web3
+3. Make sure you have the following dependencies (install if not):
+fs-extra, ganache-cli, mocha, next, next-routes, react, react-dom, semantic-ui-css, semantic-ui-react,
+solc, truffle-hdwallet-provider, web3
 
 4. run the program using npm run dev
 
