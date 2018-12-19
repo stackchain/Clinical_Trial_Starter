@@ -1,5 +1,5 @@
-One of the main problems in starting a Clinical Trial for is Funding.
-I created this Decentralized application to help anyone who is interested in making a Clinical Trial possible using the Ethereum Blockchain and as part of my project in ConsenSys class. Researchers can now meet with potential donors and can donate using Blockchain.
+One of the main problems in starting a Clinical Trial for is Funding. This Decentralized application (DaPP) enables researchers and 
+donors meet using the Ethereum Blockchain. To ensure transparency, donors will now be able to see and approve the expenses of the clinical trial which includes for example payment to the Investigator. This is part of my project in the ConsenSys Class
 
 Instructions
 
