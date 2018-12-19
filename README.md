@@ -23,7 +23,7 @@ via twitter, facebook and google plus public forum
 8. You can now start creating a proposal for your own clinical trial 
 
 Additional notes: 
-1. The front page will show you the current clinical trials including the profile of the Researcher. 
+1. The front page will show you the current clinical trials including the profile of the Researcher(i.e. for now it is me). 
 2. Once you countribute to the proposal, you automatically become one of the approvers.
 3. Only the Manager/Researcher can request for funds. The Manager/Researcher has to ensure that the address is correct. He/She can use ones own address or that of the Third party recipient.
 
