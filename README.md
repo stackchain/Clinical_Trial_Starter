@@ -5,17 +5,19 @@ Instructions
 
 1. Create a Directory in your local drive
 
-2. Fork to your own repository then clone this file in the directory you created in your local drive using "git clone file name"
+2. Fork to your own repository 
 
-3. Make sure you have node (if not go to https://nodejs.org/en/ and install)
+3. clone this file in the directory you created with "git clone https://github.com/Alchemist21/Clinical_Trial_Starter.git"
 
-4. Make sure you have the following dependencies (install if not):
+4. Make sure you have node (if not go to https://nodejs.org/en/ and install)
+
+5. Make sure you have the following dependencies (install if not):
 
         fs-extra, ganache-cli, mocha, web3 (npm install --save ganache-cli mocha fs-extra web3@1.0.0-beta.35)
 
-        next next-routes (npm install --save next-routes), 
+        next next-routes (npm install --save next-routes) 
 
-        react react-dom (npm install --save next@4.1.4 react react-dom), 
+        react react-dom (npm install --save next@4.1.4 react react-dom) 
 
         semantic-ui-css (npm install --save semantic-ui-css)
 
@@ -26,18 +28,18 @@ Instructions
         truffle-hdwallet-provider (npm install --save truffle-hdwallet-provider@0.0.3)
 
 
-5. run the program using npm run dev
+6. run the program using npm run dev
 
-6. Open the browser at localhost:3000
+7. Open the browser at localhost:3000
 
-7. Open your Metamask browser extension and your own account
+8. Open your Metamask browser extension and your own account
 
-8. Use the Rinkeby Test Network and make sure you have enough ether.
+9. Use the Rinkeby Test Network and make sure you have enough ether.
 To be able to get ether you can go to https://faucet.rinkeby.io/ 
 and follow the instructions. To request for funds, tweet with your Ethereum address pasted into the contents
 via twitter, facebook and google plus public forum
 
-9. You can now start creating a proposal for your the clinical trial 
+10. You can now start creating a proposal for your the clinical trial 
 
 Additional notes: 
 1. The front page will show you the current clinical trials including the profile of the Researcher(i.e. by default it is me). 
