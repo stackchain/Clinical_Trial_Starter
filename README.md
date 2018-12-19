@@ -1,5 +1,5 @@
 One of the main problems in starting a Clinical Trial for is Funding.
-I created this Decentralized application to help anyone who is interested in making a Clinical Trial possible using the Ethereum Blockchain and as part of my project in ConsenSys class.
+I created this Decentralized application to help anyone who is interested in making a Clinical Trial possible using the Ethereum Blockchain and as part of my project in ConsenSys class. Researchers can now meet with potential donors and can donate with ether 
 
 Instructions
 
