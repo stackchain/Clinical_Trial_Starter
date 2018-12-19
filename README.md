@@ -4,7 +4,7 @@ I created this Decentralized application to help anyone who is interested in mak
 Instructions
 
 1. Create a Directory in your local drive
-2. Clone this file in the directory you created in your local drive
+2. Clone this file in the directory you created in your local drive using "git clone file name"
 3. Make sure you have the following dependencies (install if not):
 fs-extra, ganache-cli, mocha, next, next-routes, react, react-dom, semantic-ui-css, semantic-ui-react,
 solc, truffle-hdwallet-provider, web3
