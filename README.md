@@ -4,7 +4,7 @@ I created this Decentralized application to help anyone who is interested in mak
 Instructions
 
 1. Create a Directory in your local drive
-2. Clone the file in your local drive
+2. Clone the file in the directory you created in your local drive
 3. Make sure you have the following dependencies (install if not):
 fs-extra, ganache-cli, mocha, next, next-routes, react, react-dom, semantic-ui-css, semantic-ui-react,
 solc, truffle-hdwallet-provider, web3
@@ -20,5 +20,11 @@ To be able to get ether you can go to https://faucet.rinkeby.io/
 and follow the instructions. To request for funds, tweet with your Ethereum address pasted into the contents
 via twitter, facebook and google plus public forum
 
-8. Start 
+8. You can now start creating a proposal for your own clinical trial 
 
+Additional notes: 
+1. The front page will show you the current clinical trials. 
+2. Once you countribute to the proposal, you automatically become one of the approvers.
+3. Only the Manager/Researcher can perform the Request for funds.
+
+For more inquiries, feel free to email me at louell_sala@yahoo.com
