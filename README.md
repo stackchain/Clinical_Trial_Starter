@@ -25,6 +25,6 @@ via twitter, facebook and google plus public forum
 Additional notes: 
 1. The front page will show you the current clinical trials. 
 2. Once you countribute to the proposal, you automatically become one of the approvers.
-3. Only the Manager/Researcher can perform the Request for funds.
+3. Only the Manager/Researcher can request for funds. The Manager/Researcher has to ensure that the address is correct. He/She can use ones own address or that of the Third party recipient.
 
-For more inquiries, feel free to email me at louell_sala@yahoo.com
+For more inquiries and conversations, feel free to contact me at louell_sala@yahoo.com
