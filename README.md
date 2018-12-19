@@ -3,9 +3,9 @@ donors meet using the Ethereum Blockchain. To ensure transparency, donors will n
 
 Instructions
 
-1. Create a Directory in your local drive
+1. Fork to your own repository 
 
-2. Fork to your own repository 
+2. Create a Directory in your local drive
 
 3. Clone this file in the directory you created with "git clone https://github.com/Alchemist21/Clinical_Trial_Starter.git"
 
