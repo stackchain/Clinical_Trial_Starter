@@ -13,7 +13,7 @@ solc, truffle-hdwallet-provider, web3
 
 5. Open the browser at localhost:3000
 
-6. Open the Metamask browser extension
+6. Open your Metamask browser extension and your own account
 
 7. Use the Rinkeby Test Network and make sure you have enough ether.
 To be able to get ether you can go to https://faucet.rinkeby.io/ 
@@ -23,7 +23,7 @@ via twitter, facebook and google plus public forum
 8. You can now start creating a proposal for your own clinical trial 
 
 Additional notes: 
-1. The front page will show you the current clinical trials. 
+1. The front page will show you the current clinical trials including the profile of the Researcher. 
 2. Once you countribute to the proposal, you automatically become one of the approvers.
 3. Only the Manager/Researcher can request for funds. The Manager/Researcher has to ensure that the address is correct. He/She can use ones own address or that of the Third party recipient.
 
