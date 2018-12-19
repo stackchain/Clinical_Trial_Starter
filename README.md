@@ -20,7 +20,7 @@ To be able to get ether you can go to https://faucet.rinkeby.io/
 and follow the instructions. To request for funds, tweet with your Ethereum address pasted into the contents
 via twitter, facebook and google plus public forum
 
-8. You can now start creating a proposal for your own clinical trial 
+8. You can now start creating a proposal for your the clinical trial 
 
 Additional notes: 
 1. The front page will show you the current clinical trials including the profile of the Researcher(i.e. for now it is me). 
