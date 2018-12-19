@@ -10,13 +10,13 @@ Instructions
 3. Make sure you have node (if not go to https://nodejs.org/en/ and install)
 
 4. Make sure you have the following dependencies (install if not):
-4.1. fs-extra, ganache-cli, mocha, web3 (npm install --save ganache-cli mocha fs-extra web3@1.0.0-beta.35)
-4.2. next next-routes (npm install --save next-routes), 
-4.3. react react-dom (npm install --save next@4.1.4 react react-dom), 
-4.4. semantic-ui-css (npm install --save semantic-ui-css)
-4.5. semantic-ui-react (npm install --save semantic-ui-react) 
-4.6. solc (If you have solc c already, uinstall and instead npm install --save solc@0.4.25)
-4.7. truffle-hdwallet-provider (npm install --save truffle-hdwallet-provider@0.0.3)
+a. fs-extra, ganache-cli, mocha, web3 (npm install --save ganache-cli mocha fs-extra web3@1.0.0-beta.35)
+b. next next-routes (npm install --save next-routes), 
+c. react react-dom (npm install --save next@4.1.4 react react-dom), 
+d. semantic-ui-css (npm install --save semantic-ui-css)
+e. semantic-ui-react (npm install --save semantic-ui-react) 
+f. solc (If you have solc c already, uinstall and instead npm install --save solc@0.4.25)
+g. truffle-hdwallet-provider (npm install --save truffle-hdwallet-provider@0.0.3)
 
 
 5. run the program using npm run dev
