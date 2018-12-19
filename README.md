@@ -7,7 +7,7 @@ Instructions
 
 2. Fork to your own repository 
 
-3. clone this file in the directory you created with "git clone https://github.com/Alchemist21/Clinical_Trial_Starter.git"
+3. Clone this file in the directory you created with "git clone https://github.com/Alchemist21/Clinical_Trial_Starter.git"
 
 4. Make sure you have node (if not go to https://nodejs.org/en/ and install)
 
