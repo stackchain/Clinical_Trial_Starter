@@ -5,7 +5,7 @@ Instructions
 
 1. Create a Directory in your local drive
 
-2. Clone this file in the directory you created in your local drive using "git clone file name"
+2. Rork to your own repository then clone this file in the directory you created in your local drive using "git clone file name"
 
 3. Make sure you have node (if not go to https://nodejs.org/en/ and install)
 
