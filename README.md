@@ -3,17 +3,32 @@ I created this Decentralized application to help anyone who is interested in mak
 
 Instructions
 
-After downloading the file including the dependencies, run the program using 
-npm run dev
+1. Create a Directory in your local drive
+2. Clone the file in your local drive
+3. Make sure you have the following dependencies (install if not)
+fs-extra
+ganache-cli
+mocha
+next
+next-routes
+react
+react-dom
+semantic-ui-css
+semantic-ui-react"
+solc
+truffle-hdwallet-provider
+web3
 
-Open the browser at localhost:3000
+4. run the program using npm run dev
 
-Open the Metamask browser extension
+5. Open the browser at localhost:3000
 
-Use the Rinkeby Test Network and make sure you have enough ether.
+6. Open the Metamask browser extension
+
+7. Use the Rinkeby Test Network and make sure you have enough ether.
 To be able to get ether you can go to https://faucet.rinkeby.io/ 
 and follow the instructions. To request for funds, tweet with your Ethereum address pasted into the contents
 via twitter, facebook and google plus public forum
 
-
+8. Start 
 
