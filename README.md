@@ -7,11 +7,11 @@ Instructions
 
 2. Create a Directory in your local drive
 
-3. Clone the file in the directory you created with "git clone (file you want to clone) "
+3. Clone the file in the directory you created with "git clone (file you want to forked)"
 
 4. Make sure you have node (if not go to https://nodejs.org/en/ and install)
 
-5. Make sure you have the following dependencies (install if not):
+5. Make sure you have the following dependencies (if not install via commands shown here):
 
         fs-extra, ganache-cli, mocha, web3 (npm install --save ganache-cli mocha fs-extra web3@1.0.0-beta.35)
 
@@ -42,7 +42,7 @@ via twitter, facebook and google plus public forum
 10. You can now start creating a proposal for your the clinical trial 
 
 Additional notes: 
-1. The front page will show you the current clinical trials including the profile of the Researcher(i.e. by default it is me). 
+1. The index page will show you the current clinical trials including the profile of the Researcher(i.e. by default it is me). 
 2. Once you contribute to the proposal, you automatically become one of the approvers.
 3. Only the Manager/Researcher can request for funds. The Manager/Researcher has to ensure that the address is correct. He/She can use ones own address or that of the Third party recipient.
 
