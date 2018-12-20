@@ -7,7 +7,7 @@ Instructions
 
 2. Create a Directory in your local drive
 
-3. Clone this file in the directory you created with "git clone https://github.com/Alchemist21/Clinical_Trial_Starter.git"
+3. Clone the file in the directory you created with "git clone (file you want to clone) "
 
 4. Make sure you have node (if not go to https://nodejs.org/en/ and install)
 
